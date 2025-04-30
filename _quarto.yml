@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dan Cunha"
+  navbar:
+    left:
+      - href: index.qmd
+        text: home
+      - href: research.qmd
+        text: research
+      - href: cv.qmd
+        text: cv
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+

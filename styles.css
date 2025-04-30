@@ -1,0 +1,18 @@
+/* css styles */
+.about-image { /* Replace with the actual selector if needed */
+   position: absolute; /* Position relative to its nearest positioned ancestor */
+   top: 1;
+   left: 0;
+}
+
+/* Increase size of social icons */
+.quarto-about-toc .about-link {
+  font-size: 1.5em;  /* You can adjust this size as needed */
+}
+
+/* Target the icons in the about section */
+.about-links .bi,
+.about-links i,
+.about-links svg {
+  font-size: 1.em; /* Increase to whatever size you want */
+}
