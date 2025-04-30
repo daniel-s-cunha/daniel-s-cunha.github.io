@@ -1,18 +1,18 @@
 /* css styles */
-.about-image { /* Replace with the actual selector if needed */
-   position: absolute; /* Position relative to its nearest positioned ancestor */
+.about-image { 
+   position: absolute; 
    top: 1;
    left: 0;
+   /*width: 12.5% !important;
+   height: auto !important;*/
 }
 
-/* Increase size of social icons */
-.quarto-about-toc .about-link {
-  font-size: 1.5em;  /* You can adjust this size as needed */
-}
 
-/* Target the icons in the about section */
-.about-links .bi,
-.about-links i,
-.about-links svg {
-  font-size: 1.em; /* Increase to whatever size you want */
-}
+/*.container,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl {
+  max-width: 100% !important;
+  width: 100% !important;
+}*/

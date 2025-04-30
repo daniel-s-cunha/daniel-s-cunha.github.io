@@ -1,5 +1,1 @@
----
-title: "research"
----
-
-D. Cunha, M. Friedl, L. Carvalho, "Bernstein Polynomial Processes for Continuous Time Change Detection" \[[paper](https://arxiv.org/abs/2504.17876)\] \[[code](https://github.com/daniel-s-cunha/BPP/)\] (submitted)
+D. Cunha, M. Friedl, L. Carvalho, **Bernstein Polynomial Processes for Continuous Time Change Detection** \[[paper](https://arxiv.org/abs/2504.17876)\] \[[code](https://github.com/daniel-s-cunha/BPP/)\] (submitted)
