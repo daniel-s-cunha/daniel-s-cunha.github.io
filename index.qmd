@@ -1,5 +1,5 @@
 ---
-title: "Statistics research"
+title: "Statistics Research"
 image: headshot.png
 about:
   template: solana
