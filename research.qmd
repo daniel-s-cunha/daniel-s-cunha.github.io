@@ -1,12 +1,8 @@
----
-title: Papers (Theory and Methods)
----
+**Papers (Theory and Methods)**
 
 D. Cunha, M. Friedl, L. Carvalho. **Bernstein Polynomial Processes for Continuous Time Change Detection** \[[paper](https://arxiv.org/abs/2504.17876)\] \[[code](https://github.com/daniel-s-cunha/BPP/)\] (submitted)
 
----
-title: Papers (Applications)
----
+**Papers (Applications)**
 
 Choi, Chi-Whan, Daniel Cunha, Christine Helfrich, and Simone V. Gill. "Factors contributing to whether or not people with obesity undergo bariatric surgery." Obesity Research & Clinical Practice 17, no. 6 (2023): 511-518.
 
