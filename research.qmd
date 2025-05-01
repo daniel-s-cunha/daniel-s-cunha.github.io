@@ -8,4 +8,4 @@ C. Choi, D. Cunha, C. Helfrich, and S. Gill. *Factors contributing to whether or
 
 R. Das, L. Furchtgott, F-S. Ou, D. Swanson, B. Hayete, B. Harms, D. Cunha et al. *Causal modeling of CALGB/SWOG 80405 (Alliance) identifies primary (1°) side-related angiogenic drivers of metastatic colorectal cancer (mCRC)*. **Annals of Oncology** 29 (2018): viii152.
 
-R. Das, L. Furchtgott, J. Meyerhardt, A. Nixon, F. Innocenti, D. Cunha, K. Rich et al. *Causal modeling of CALGB 80405 (Alliance) to identify network drivers of metastatic colorectal cancer (CRC)*. **Journal of Clinical Oncology** 36, no. 13 (2018): 3570-3570.
+R. Das, L. Furchtgott, J. Meyerhardt, A. Nixon, F. Innocenti, D. Cunha et al. *Causal modeling of CALGB 80405 (Alliance) to identify network drivers of metastatic colorectal cancer (CRC)*. **Journal of Clinical Oncology** 36, no. 13 (2018): 3570-3570.
