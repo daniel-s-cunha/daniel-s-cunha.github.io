@@ -14,7 +14,7 @@ about:
 
 I am currently a statistics phd student at Boston University working with [Luis Carvalho](https://math.bu.edu/people/lecarval/) and [Mark Friedl](https://www.bu.edu/lcsc/). 
 
-I help develop bespoke statistical models for a variety of scientific disciplines with a focus on methodologies for efficient inference. I am interested in using rich dependence structures and latent variable dynamics to achieve marginal distribution alignment with data generating processes. Please check out our [recent work](https://arxiv.org/abs/2504.17876), where we develop the heterogeneous continuous time Markov chain for noninformative change point processes. 
+I help develop bespoke statistical models for a variety of scientific disciplines with a focus on methodologies for efficient inference. I am interested in using rich dependence structures and latent variable dynamics to achieve marginal distributional alignment with data generating processes. Please check out our [recent work](https://arxiv.org/abs/2504.17876), where we develop the heterogeneous continuous time Markov chain for noninformative change point processes. 
 
 Before joining Boston University, I worked for about 10 years in Biotech, Pharma, Agriculture, and Labor Market industries. During that time, I worked on vaccine antigen design, vaccine effectiveness studies, and clinical trial evaluation.  If you are interested in consulting, please reach out to me.
 
