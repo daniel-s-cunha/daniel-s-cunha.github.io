@@ -14,7 +14,7 @@ about:
 
 I recently completed a phd in statistics at Boston University, working with [Luis Carvalho](https://math.bu.edu/people/lecarval/) and [Mark Friedl](https://www.bu.edu/earth/profiles/mark-friedl/). 
 
-I develop statistical theory and methods for a variety of scientific disciplines, focusing on embedding inferential capacity within models of large complex systems. My domain of study spans multiple scales, from continental terrestrial ecosystems to biological cellular networks, as well as observational settings in oncology.  I am particularly interested in causal inference techniques for identifying parameters of interest from incomplete observational data in network applications. 
+I develop statistical theory and methods for a variety of scientific disciplines, focusing on embedding inferential capacity within models of large complex systems. My domain of study spans multiple scales, from continental terrestrial ecosystems to biological cellular networks, as well as observational settings in oncology.  I am particularly interested in causal inference theory for answering "what happened and why?" questions within network applications. 
 
 Before joining Boston University, I worked in Biotech, Pharma, Agriculture, and Labor Market industries for about 10 years. During that time, I worked on vaccine antigen design, vaccine effectiveness studies, and clinical trial evaluation.
 
