@@ -7,14 +7,14 @@ about:
     - text: '{{< ai google-scholar >}}'
       href: https://scholar.google.com/citations?user=QC9sWVMAAAAJ&hl=en
     - icon: github
-      href: https://github.com/daniel-s-cunha/BPP
+      href: https://github.com/daniel-s-cunha/
     - icon: linkedin
       href: https://www.linkedin.com/in/dan-cunha/
 ---
 
-I recently completed a phd in statistics at Boston University, working with [Luis Carvalho](https://math.bu.edu/people/lecarval/) and [Mark Friedl](https://www.bu.edu/earth/profiles/mark-friedl/). 
+I am currently a research assistant professor at Boston University, after recently completing a phd in statistics working with [Luis Carvalho](https://math.bu.edu/people/lecarval/) and [Mark Friedl](https://www.bu.edu/earth/profiles/mark-friedl/). I am also an affiliate faculty member of the [Center on Forced Displacement](https://www.bu.edu/cfd/) working with [Muhammad Zaman](https://www.bu.edu/cfd/profile/muhammad-zaman/) on optimizing medical supply delivery to refugee and internally-displaced-people camps.
 
-I develop statistical theory and methods for a variety of scientific disciplines, focusing on embedding inferential capacity within models of large complex systems. My domain of study spans multiple scales, from continental terrestrial ecosystems to biological cellular networks, as well as observational settings in oncology.  I am particularly interested in causal inference theory for answering "what happened and why?" questions within network applications. 
+I develop statistical theory and methods for a variety of scientific disciplines, focusing on embedding inferential capacity within models of large complex systems. My domain of study spans multiple scales, from continental terrestrial ecosystems to biological cellular networks, as well as observational settings in oncology.  I am particularly interested in causal inference theory for answering "what happened and why?" questions within network applications.
 
 Before joining Boston University, I worked in Biotech, Pharma, Agriculture, and Labor Market industries for about 10 years. During that time, I worked on vaccine antigen design, vaccine effectiveness studies, and clinical trial evaluation.
 
