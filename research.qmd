@@ -4,7 +4,7 @@ D. Cunha, M. Friedl, and L. Carvalho. *Bernstein Polynomial Processes for Contin
 
 **Papers (Applications)**
 
-D. Cunha, L. Weber, M. Friedl, L. Carvalho. *Spatially orthogonal factor models for spatial transcriptomics and remote sensing data* \[[paper](https://arxiv.org/abs/2608.25172)\]\[[code](github.com/daniel-s-cunha/SOFM/)\] (submitted)
+D. Cunha, L. Weber, M. Friedl, L. Carvalho. *Spatially orthogonal factor models for spatial transcriptomics and remote sensing data* \[[paper](https://arxiv.org/abs/2608.25172)\]\[[code](https://github.com/daniel-s-cunha/SOFM/)\] (submitted)
 
 C. Choi, D. Cunha, C. Helfrich, and S. Gill. *Factors contributing to whether or not people with obesity undergo bariatric surgery*. **Obesity Research & Clinical Practice** 17, no. 6 (2023): 511-518.
 
